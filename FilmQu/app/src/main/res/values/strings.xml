@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="film_name">Nama Film</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+    <string name="name_profile">Dimas Ariyanto</string>
+    <string name="email_profile">dimasariyanto890@gmail.com</string>
+    <string name="txtnama">Nama :</string>
+    <string name="name_film">Nama Film</string>
+    <string name="ranting">Ranting</string>
+    <string name="informasi_film">Informasi Film</string>
+    <string name="colomdetail">Tanggal Rilis \nSutradara \nMusik \nProduser \nSkenario</string>
+    <string name="detail_content">detail_content</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="phone_profile">+62895371752686</string>
+
+</resources>
